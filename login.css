@@ -1,0 +1,9 @@
+.bg-style{
+    font-family: 'Montserrat', sans-serif;
+    background:url('https://career.daffodilvarsity.edu.bd/images/img/13.jpg'),
+    linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
